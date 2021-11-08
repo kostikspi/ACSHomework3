@@ -1,0 +1,5 @@
+Filled container:
+Average Quotient: 5.741666666666667
+Container has 2elements
+Functional Programming Language: name = kostik, yearOfCreation = 2002, indexTIOBE = 40, typing scheme = Typing.DYNAMIC, support of lazy computations = True
+Procedural Programming Language: name = legalov+, yearOfCreation = 2020, indexTIOBE = 99, presenceOfADT = True

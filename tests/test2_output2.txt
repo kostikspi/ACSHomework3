@@ -1,0 +1,4 @@
+Filled container:
+Average Quotient: 3.3796296296296298
+Container has 1elements
+Procedural Programming Language: name = R, yearOfCreation = 1996, indexTIOBE = 12, presenceOfADT = True

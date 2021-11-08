@@ -1,0 +1,14 @@
+echo "Test 1";
+time python3 /Users/konstantinvoronin/PycharmProjects/ACSHomework3/main.py -f /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test1.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test1_output1.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test1_output2.txt;
+echo "Test 2";
+time python3 /Users/konstantinvoronin/PycharmProjects/ACSHomework3/main.py -f /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test2.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test2_output1.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test2_output2.txt;
+echo "Test 3";
+time python3 /Users/konstantinvoronin/PycharmProjects/ACSHomework3/main.py -f /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test3.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test3_output1.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test3_output2.txt;
+echo "Test 4";
+time python3 /Users/konstantinvoronin/PycharmProjects/ACSHomework3/main.py -f /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test4.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test4_output1.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test4_output2.txt;
+echo "Test 5";
+time python3 /Users/konstantinvoronin/PycharmProjects/ACSHomework3/main.py -f /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test5.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test5_output1.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/test5_output2.txt;
+echo "Random Test 1(5000)";
+time python3 /Users/konstantinvoronin/PycharmProjects/ACSHomework3/main.py -n 5000 /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/randomtest1_output1.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/randomtest1_output2.txt;
+echo "Random Test 2(333)";
+time python3 /Users/konstantinvoronin/PycharmProjects/ACSHomework3/main.py -n 333 /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/randomtest2_output1.txt /Users/konstantinvoronin/PycharmProjects/ACSHomework3/tests/randomtest2_output2.txt;

@@ -1,0 +1,10 @@
+Filled container:
+Container has 8elements
+Procedural Programming Language: name = Assembler, yearOfCreation = 1960, indexTIOBE = 10, presenceOfADT = True
+Object-Oriented Programming Language: name = Java, yearOfCreation = 1990, indexTIOBE = 13, inheritance_type = InheritanceType.INTERFACE
+Procedural Programming Language: name = Python++, yearOfCreation = 2012, indexTIOBE = 12, presenceOfADT = True
+Object-Oriented Programming Language: name = Java#, yearOfCreation = 2021, indexTIOBE = 40, inheritance_type = InheritanceType.INTERFACE
+Functional Programming Language: name = CC+, yearOfCreation = 2021, indexTIOBE = 45, typing scheme = Typing.DYNAMIC, support of lazy computations = True
+Procedural Programming Language: name = dyfdst, yearOfCreation = 1999, indexTIOBE = 23, presenceOfADT = True
+Object-Oriented Programming Language: name = sadj, yearOfCreation = 1977, indexTIOBE = 77, inheritance_type = InheritanceType.INTERFACE
+Object-Oriented Programming Language: name = AVS++, yearOfCreation = 2021, indexTIOBE = 99, inheritance_type = InheritanceType.MULTIPLE
